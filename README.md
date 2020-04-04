@@ -1,4 +1,5 @@
-# NuGetReferencesScanner
-An web application to search references from C# projects to NuGet packages 
+# MAVN.Job.NuGetReferencesScanner
 
 [![Coverage Status](https://coveralls.io/repos/github/OpenMAVN/MAVN.Job.NuGetReferencesScanner/badge.svg?branch=master)](https://coveralls.io/github/OpenMAVN/MAVN.Job.NuGetReferencesScanner?branch=master)
+
+A web application to search references from C# projects to NuGet packages 

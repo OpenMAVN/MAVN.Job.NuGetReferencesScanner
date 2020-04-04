@@ -1,4 +1,4 @@
-﻿namespace Lykke.NuGetReferencesScanner.Models
+namespace Lykke.NuGetReferencesScanner.Models
 {
     public sealed class RefsScanStatisticsModel
     {
