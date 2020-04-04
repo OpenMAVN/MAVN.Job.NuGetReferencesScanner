@@ -1,4 +1,4 @@
-﻿using System.Net;
+using System.Net;
 using Lykke.NuGetReferencesScanner.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.PlatformAbstractions;

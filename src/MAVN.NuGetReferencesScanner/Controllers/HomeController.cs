@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using Lykke.NuGetReferencesScanner.Domain;
 using Lykke.NuGetReferencesScanner.Models;
 using Microsoft.AspNetCore.Mvc;

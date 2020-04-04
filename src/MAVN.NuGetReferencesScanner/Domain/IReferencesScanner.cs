@@ -1,4 +1,4 @@
-﻿namespace Lykke.NuGetReferencesScanner.Domain
+namespace Lykke.NuGetReferencesScanner.Domain
 {
     public interface IReferencesScanner
     {
