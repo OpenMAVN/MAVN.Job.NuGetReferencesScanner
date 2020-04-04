@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAVN.NuGetReferencesScanner", "src\MAVN.NuGetReferencesScanner\MAVN.NuGetReferencesScanner.csproj", "{E24CE9F9-8500-4387-9401-9740663B2318}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAVN.NuGetReferencesScanner.Tests", "tests\MAVN.NuGetReferencesScanner.Test\MAVN.NuGetReferencesScanner.Tests.csproj", "{D843DFDF-7383-4CA2-9B6D-2FC41E1DDB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAVN.NuGetReferencesScanner.Tests", "tests\MAVN.NuGetReferencesScanner.Tests\MAVN.NuGetReferencesScanner.Tests.csproj", "{D843DFDF-7383-4CA2-9B6D-2FC41E1DDB1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
