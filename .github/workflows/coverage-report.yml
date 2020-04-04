@@ -25,4 +25,4 @@ jobs:
       uses: coverallsapp/github-action@master
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        path-to-lcov: ./tests/MAVN.NuGetReferencesScanner.Tests/TestResults/coverage.info 
+        path-to-lcov: ./tests/MAVN.Job.NuGetReferencesScanner.Tests/TestResults/coverage.info 

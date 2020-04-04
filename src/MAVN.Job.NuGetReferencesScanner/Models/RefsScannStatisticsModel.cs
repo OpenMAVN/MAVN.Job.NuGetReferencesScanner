@@ -1,4 +1,4 @@
-namespace Lykke.NuGetReferencesScanner.Models
+namespace MAVN.Job.NuGetReferencesScanner.Models
 {
     public sealed class RefsScanStatisticsModel
     {

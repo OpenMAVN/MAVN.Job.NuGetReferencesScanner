@@ -1,6 +1,6 @@
 using System;
 
-namespace Lykke.NuGetReferencesScanner.Domain
+namespace MAVN.Job.NuGetReferencesScanner.Domain
 {
     public sealed class RepoInfo
     {

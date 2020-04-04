@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Octokit;
 using Octokit.Internal;
 
-namespace Lykke.NuGetReferencesScanner.Domain
+namespace MAVN.Job.NuGetReferencesScanner.Domain
 {
     public sealed class GitHubScanner : GitScannerBase
     {

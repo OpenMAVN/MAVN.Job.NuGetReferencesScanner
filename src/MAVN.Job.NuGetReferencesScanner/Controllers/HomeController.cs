@@ -1,10 +1,10 @@
 using System.Linq;
-using Lykke.NuGetReferencesScanner.Domain;
-using Lykke.NuGetReferencesScanner.Models;
+using MAVN.Job.NuGetReferencesScanner.Domain;
+using MAVN.Job.NuGetReferencesScanner.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
-namespace Lykke.NuGetReferencesScanner.Controllers
+namespace MAVN.Job.NuGetReferencesScanner.Controllers
 {
     public class HomeController : Controller
     {

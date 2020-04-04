@@ -1,7 +1,7 @@
 using System;
 using NuGet.Versioning;
 
-namespace Lykke.NuGetReferencesScanner.Domain
+namespace MAVN.Job.NuGetReferencesScanner.Domain
 {
     public sealed class PackageReference
     {

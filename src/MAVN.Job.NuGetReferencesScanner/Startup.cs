@@ -1,11 +1,11 @@
 using JetBrains.Annotations;
-using Lykke.NuGetReferencesScanner.Domain;
+using MAVN.Job.NuGetReferencesScanner.Domain;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Lykke.NuGetReferencesScanner
+namespace MAVN.Job.NuGetReferencesScanner
 {
     public class Startup
     {
