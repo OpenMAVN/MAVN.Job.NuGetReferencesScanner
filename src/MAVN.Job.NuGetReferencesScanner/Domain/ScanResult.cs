@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Lykke.NuGetReferencesScanner.Domain
+namespace MAVN.Job.NuGetReferencesScanner.Domain
 {
     public sealed class ScanResult
     {

@@ -1,4 +1,4 @@
-namespace Lykke.NuGetReferencesScanner.Domain
+namespace MAVN.Job.NuGetReferencesScanner.Domain
 {
     public interface IReferencesScanner
     {

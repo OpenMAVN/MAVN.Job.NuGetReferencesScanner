@@ -1,9 +1,9 @@
 using System.Net;
-using Lykke.NuGetReferencesScanner.Models;
+using MAVN.Job.NuGetReferencesScanner.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.PlatformAbstractions;
 
-namespace Lykke.NuGetReferencesScanner.Controllers
+namespace MAVN.Job.NuGetReferencesScanner.Controllers
 {
     [Route("api/[controller]")]
     public class IsAliveController : Controller

@@ -3,7 +3,7 @@ using System.IO;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Lykke.NuGetReferencesScanner
+namespace MAVN.Job.NuGetReferencesScanner
 {
     internal sealed class Program
     {

@@ -9,7 +9,7 @@ using SharpBucket;
 using SharpBucket.V2;
 using SharpBucket.V2.Pocos;
 
-namespace Lykke.NuGetReferencesScanner.Domain
+namespace MAVN.Job.NuGetReferencesScanner.Domain
 {
     public class BitBucketScanner : GitScannerBase
     {
